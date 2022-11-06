@@ -155,6 +155,7 @@
 * assert, assertThat, assertEquals, fail
 
 ## Сериализация и десериализация
+* Как пометить переменную, которая не должна сериализоваться - @Transient
 
 ## IO
 * Reader/Writer, надстройки
